@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 
 # reading image
-img = cv2.imread("indir.jpg")
+img = cv2.imread("CowboyBebop.jpg")
 
 # Edges
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
